@@ -3,7 +3,7 @@
 The BlinkIT Grocery platform aims to analyze its sales data to understand customer behavior, optimize inventory, and improve revenue. This analysis will assist in strategic decision-making for better product placement and sales forecasting.
 
 ## Dataset Used
-
+- <a href="https://github.com/Akshay-Rana13/BlinkIT-Grocery-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 
