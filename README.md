@@ -20,7 +20,11 @@ The BlinkIT Grocery platform aims to analyze its sales data to understand custom
 - Developed an interactive dashboard using Power BI for dynamic analysis.
 
 ## Dashboard Interaction
-For an interactive visualization, download Power BI Desktop and use the associated Power BI file.
+![BlinkIT Dashboard Image](https://github.com/user-attachments/assets/a9523d48-87f5-4e19-aa3c-8f891828065e)
+
+- For an interactive visualization, download Power BI Desktop and use the associated Power BI file.
+  <a href="https://github.com/Akshay-Rana13/BlinkIT-Grocery-Data-Analysis/blob/main/BlinkIT.pbix">Interactive Dashboard</a>
+
 
 ## Project Insights
 
